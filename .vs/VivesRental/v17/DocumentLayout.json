@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model.extensions\\articlereservationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|solutionrelative:vivesrental.model.extensions\\articlereservationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model.extensions\\articleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|solutionrelative:vivesrental.model.extensions\\articleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D923E57-00A7-4D42-B855-8D493300F1C4}|VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.tests.data\\vivesrental.tests.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D923E57-00A7-4D42-B855-8D493300F1C4}|VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj|solutionrelative:vivesrental.tests.data\\vivesrental.tests.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38CD6A-2FAC-4732-91E1-AC1C30B305DD}|VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services.tests\\vivesrental.services.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC38CD6A-2FAC-4732-91E1-AC1C30B305DD}|VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj|solutionrelative:vivesrental.services.tests\\vivesrental.services.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411D1C4A-EA2D-411E-A4F1-24ACB8A903F3}|VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model.tests\\vivesrental.model.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{411D1C4A-EA2D-411E-A4F1-24ACB8A903F3}|VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj|solutionrelative:vivesrental.model.tests\\vivesrental.model.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D923E57-00A7-4D42-B855-8D493300F1C4}|VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.tests.data\\vivesrental.tests.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D923E57-00A7-4D42-B855-8D493300F1C4}|VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj|solutionrelative:vivesrental.tests.data\\vivesrental.tests.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38CD6A-2FAC-4732-91E1-AC1C30B305DD}|VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services.tests\\vivesrental.services.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC38CD6A-2FAC-4732-91E1-AC1C30B305DD}|VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj|solutionrelative:vivesrental.services.tests\\vivesrental.services.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411D1C4A-EA2D-411E-A4F1-24ACB8A903F3}|VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model.tests\\vivesrental.model.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{411D1C4A-EA2D-411E-A4F1-24ACB8A903F3}|VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj|solutionrelative:vivesrental.model.tests\\vivesrental.model.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178E85BF-04C3-415A-A6D8-F76D52142108}|VivesRental.Services\\VivesRental.Services.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services\\vivesrental.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{178E85BF-04C3-415A-A6D8-F76D52142108}|VivesRental.Services\\VivesRental.Services.csproj|solutionrelative:vivesrental.services\\vivesrental.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\articlereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\articlereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.enums\\articlestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|solutionrelative:vivesrental.enums\\articlestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\vivesrental.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\vivesrental.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.repository\\core\\vivesrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|solutionrelative:vivesrental.repository\\core\\vivesrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C600D811-0061-4A2C-B2BC-195F035195C3}|VivesRental.Services.Model\\VivesRental.Services.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services.model\\results\\articlereservationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C600D811-0061-4A2C-B2BC-195F035195C3}|VivesRental.Services.Model\\VivesRental.Services.Model.csproj|solutionrelative:vivesrental.services.model\\results\\articlereservationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.enums\\vivesrental.enums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|solutionrelative:vivesrental.enums\\vivesrental.enums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C600D811-0061-4A2C-B2BC-195F035195C3}|VivesRental.Services.Model\\VivesRental.Services.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services.model\\vivesrental.services.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C600D811-0061-4A2C-B2BC-195F035195C3}|VivesRental.Services.Model\\VivesRental.Services.Model.csproj|solutionrelative:vivesrental.services.model\\vivesrental.services.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFAFF9-75C9-4A8F-A3B9-F6D531B9946E}|VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services.abstractions\\vivesrental.services.abstractions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B0AFAFF9-75C9-4A8F-A3B9-F6D531B9946E}|VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj|solutionrelative:vivesrental.services.abstractions\\vivesrental.services.abstractions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178E85BF-04C3-415A-A6D8-F76D52142108}|VivesRental.Services\\VivesRental.Services.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.services\\vivesrental.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{178E85BF-04C3-415A-A6D8-F76D52142108}|VivesRental.Services\\VivesRental.Services.csproj|solutionrelative:vivesrental.services\\vivesrental.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.repository\\vivesrental.repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|solutionrelative:vivesrental.repository\\vivesrental.repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model.extensions\\vivesrental.model.extensions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A06703F2-CA97-44A2-84EA-20DD7D44893F}|VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj|solutionrelative:vivesrental.model.extensions\\vivesrental.model.extensions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\vivesrental.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\vivesrental.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.enums\\vivesrental.enums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B095C672-928B-4FBD-84AC-79D1374B8855}|VivesRental.Enums\\VivesRental.Enums.csproj|solutionrelative:vivesrental.enums\\vivesrental.enums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.repository\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5046CD22-3640-4989-83D2-51178C48DD94}|VivesRental.Repository\\VivesRental.Repository.csproj|solutionrelative:vivesrental.repository\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|c:\\users\\marou\\source\\repos\\vivesrental\\vivesrental.model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9424B442-9455-4A84-AC3F-7AB0677FEB26}|VivesRental.Model\\VivesRental.Model.csproj|solutionrelative:vivesrental.model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VivesRental.Tests.Data",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "RelativeToolTip": "VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:10:40.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VivesRental.Services.Tests",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "RelativeToolTip": "VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:10:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VivesRental.Model.Tests",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "RelativeToolTip": "VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:10:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VivesRental.Services.Tests",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "RelativeToolTip": "VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:09:37.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VivesRental.Tests.Data",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "RelativeToolTip": "VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:09:21.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Article.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\Article.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Article.cs",
+              "RelativeToolTip": "VivesRental.Model\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:26:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\ArticleExtensions.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model.Extensions\\ArticleExtensions.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\ArticleExtensions.cs",
+              "RelativeToolTip": "VivesRental.Model.Extensions\\ArticleExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleReservationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\ArticleReservationExtensions.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model.Extensions\\ArticleReservationExtensions.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\ArticleReservationExtensions.cs",
+              "RelativeToolTip": "VivesRental.Model.Extensions\\ArticleReservationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:46.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VivesRental.Model.Tests",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "RelativeToolTip": "VivesRental.Model.Tests\\VivesRental.Model.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:10:29.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArticleReservationResult.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\Results\\ArticleReservationResult.cs",
+              "RelativeDocumentMoniker": "VivesRental.Services.Model\\Results\\ArticleReservationResult.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\Results\\ArticleReservationResult.cs",
+              "RelativeToolTip": "VivesRental.Services.Model\\Results\\ArticleReservationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VivesRental.Services",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services\\VivesRental.Services.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+              "RelativeToolTip": "VivesRental.Services\\VivesRental.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:40:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VivesRentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\Core\\VivesRentalDbContext.cs",
+              "RelativeDocumentMoniker": "VivesRental.Repository\\Core\\VivesRentalDbContext.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\Core\\VivesRentalDbContext.cs",
+              "RelativeToolTip": "VivesRental.Repository\\Core\\VivesRentalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:28:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VivesRental.Model",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Model\\VivesRental.Model.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+              "RelativeToolTip": "VivesRental.Model\\VivesRental.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:36.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\ArticleStatus.cs",
+              "RelativeDocumentMoniker": "VivesRental.Enums\\ArticleStatus.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\ArticleStatus.cs",
+              "RelativeToolTip": "VivesRental.Enums\\ArticleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:31:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticleReservation.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\ArticleReservation.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\ArticleReservation.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\ArticleReservation.cs",
+              "RelativeToolTip": "VivesRental.Model\\ArticleReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:18:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VivesRental.Services.Model",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+              "RelativeToolTip": "VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:40:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VivesRental.Services.Abstractions",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+              "RelativeToolTip": "VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:40:04.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VivesRental.Services",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Services\\VivesRental.Services.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+              "RelativeToolTip": "VivesRental.Services\\VivesRental.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VivesRental.Repository",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Repository\\VivesRental.Repository.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+              "RelativeToolTip": "VivesRental.Repository\\VivesRental.Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Customer.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Customer.cs",
+              "RelativeToolTip": "VivesRental.Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:18:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VivesRental.Model.Extensions",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+              "RelativeToolTip": "VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:44.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VivesRental.Enums",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Enums\\VivesRental.Enums.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+              "RelativeToolTip": "VivesRental.Enums\\VivesRental.Enums.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:37:27.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VivesRental.Model",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Model\\VivesRental.Model.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+              "RelativeToolTip": "VivesRental.Model\\VivesRental.Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VivesRental.Enums",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+              "RelativeDocumentMoniker": "VivesRental.Enums\\VivesRental.Enums.csproj",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+              "RelativeToolTip": "VivesRental.Enums\\VivesRental.Enums.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T13:39:04.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "VivesRental.Repository\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "VivesRental.Repository\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:29:21.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Order.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\Order.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Order.cs",
+              "RelativeToolTip": "VivesRental.Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:26:35.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Product.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\Product.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\Product.cs",
+              "RelativeToolTip": "VivesRental.Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:26:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\OrderLine.cs",
+              "RelativeDocumentMoniker": "VivesRental.Model\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\OrderLine.cs",
+              "RelativeToolTip": "VivesRental.Model\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:26:10.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

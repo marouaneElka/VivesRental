@@ -1,0 +1,716 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+        "projectName": "VivesRental.Enums",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+        "projectName": "VivesRental.Model.Extensions",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+        "projectName": "VivesRental.Model",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+        "projectName": "VivesRental.Repository",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+        "projectName": "VivesRental.Services.Abstractions",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+        "projectName": "VivesRental.Services.Model",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Enums\\VivesRental.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+        "projectName": "VivesRental.Services.Tests",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\VivesRental.Services.Tests.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+        "projectName": "VivesRental.Services",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model.Extensions\\VivesRental.Model.Extensions.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Abstractions\\VivesRental.Services.Abstractions.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services.Model\\VivesRental.Services.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+        "projectName": "VivesRental.Tests.Data",
+        "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\VivesRental.Tests.Data.csproj",
+        "packagesPath": "C:\\Users\\marou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Tests.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Model\\VivesRental.Model.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Repository\\VivesRental.Repository.csproj"
+              },
+              "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj": {
+                "projectPath": "C:\\Users\\marou\\source\\repos\\VivesRental\\VivesRental.Services\\VivesRental.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

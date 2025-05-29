@@ -1,0 +1,17 @@
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Services.Abstractions.deps.json
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Services.Abstractions.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Services.Abstractions.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Enums.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Services.Model.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Services.Model.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\bin\Debug\net9.0\VivesRental.Enums.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.AssemblyInfo.cs
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRen.C42E8D11.Up2Date
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\refint\VivesRental.Services.Abstractions.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\VivesRental.Services.Abstractions.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Abstractions\obj\Debug\net9.0\ref\VivesRental.Services.Abstractions.dll

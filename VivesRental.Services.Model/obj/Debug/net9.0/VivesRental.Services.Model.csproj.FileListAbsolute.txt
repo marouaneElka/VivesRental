@@ -1,0 +1,15 @@
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\bin\Debug\net9.0\VivesRental.Services.Model.deps.json
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\bin\Debug\net9.0\VivesRental.Services.Model.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\bin\Debug\net9.0\VivesRental.Services.Model.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\bin\Debug\net9.0\VivesRental.Enums.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\bin\Debug\net9.0\VivesRental.Enums.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.csproj.AssemblyReference.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.AssemblyInfoInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.AssemblyInfo.cs
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.csproj.CoreCompileInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRen.3CEF8017.Up2Date
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\refint\VivesRental.Services.Model.dll
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\VivesRental.Services.Model.pdb
+C:\Users\marou\source\repos\VivesRental\VivesRental.Services.Model\obj\Debug\net9.0\ref\VivesRental.Services.Model.dll

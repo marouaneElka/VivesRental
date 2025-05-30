@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VivesRental.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f8df67069ea0b2839e83d19599ac2085f8862ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("VivesRental.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VivesRental.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

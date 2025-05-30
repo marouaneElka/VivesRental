@@ -1,0 +1,8 @@
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.csproj.AssemblyReference.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.AssemblyInfoInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.AssemblyInfo.cs
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.csproj.CoreCompileInputs.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marou\source\repos\VivesRental\VivesRental.RestApi\obj\Debug\net9.0\VivesRental.RestApi.sourcelink.json
